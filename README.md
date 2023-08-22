@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Victor Bejar-Lecou
+- 👀 I’m interested in Electronics, Computer Sciences, Embedded Systems and Radio & Telecommunication Systems.
+- 🌱 I’m currently learning Electronics and Radio & Telecommunication Systems.
+- 📫 How to reach me: vbejarlecou@bordeaux-inp.fr
